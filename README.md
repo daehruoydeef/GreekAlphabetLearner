@@ -6,8 +6,7 @@
 
 This repository provides the source code for the GreekAlphabetLearner tool which is written in Java
 
-This is my first project JavaFX project and is aimed for People who try to learn a diffrent Alphabet. Instead of using old notecards you can just place your images inside _/symbols_ and start learning your Alphabet.
-
+This is JavaFX project is aimed for People who try to learn a diffrent Alphabet. Instead of using old notecards you can just place your images inside _/symbols_ and start learning your Alphabet. You need to recompile the project to get a working jar or you could just run it as it is.
 
 
 ### Usage
