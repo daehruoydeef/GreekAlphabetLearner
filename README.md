@@ -1,6 +1,6 @@
 # GreekAlphabetLearner
 
-<div style="text-align:center"><img src https://github.com/daehruoydeef/GreekAlphabetLearner/blob/master/GreekLearner/out/useful.gif"/></div>
+<div style="text-align:center"><img src="https://github.com/daehruoydeef/GreekAlphabetLearner/blob/master/GreekLearner/out/useful.gif" /> </div>
     
 This repository provides the source code for the GreekAlphabetLearner tool which is written in Java
 
