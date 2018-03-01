@@ -25,9 +25,14 @@ you need the Oracle jdk 8 for this since this will not work with openjdk **.
 
 > right click > run as > Oracle 8 jdk 
 
+if this is not working for you just run this in your bash
+
+    $java -jar /GreekLearner/out/artifacts/GreekLearner/GreekAlphabetLearner.jar
+
+
 ### Contribute
 
-Please report bugs or features and I will try to implement them or you can also implement them yourself and push your code to github.
+Please report bugs or features and I will try to implement them or you could also implement them yourself and contribute your code to this repo.
 
 
 ~                     
